@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="258" column="28" selection-start="11876" selection-end="11876" vertical-scroll-proportion="13.923809" vertical-offset="0" max-vertical-offset="8653">
+            <state line="261" column="26" selection-start="12057" selection-end="12057" vertical-scroll-proportion="-2.7058823" vertical-offset="4299" max-vertical-offset="8704">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../freelance/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="44" selection-start="4030" selection-end="4035" vertical-scroll-proportion="0.0" vertical-offset="1666" max-vertical-offset="9282">
+            <state line="107" column="36" selection-start="4483" selection-end="4498" vertical-scroll-proportion="-25.5" vertical-offset="1156" max-vertical-offset="9282">
               <folding />
             </state>
           </provider>
@@ -44,16 +44,16 @@
       <file leaf-file-name="freelancer.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../freelance/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="391" column="21" selection-start="6711" selection-end="6711" vertical-scroll-proportion="0.0" vertical-offset="6384" max-vertical-offset="7786">
+            <state line="341" column="24" selection-start="5964" selection-end="5964" vertical-scroll-proportion="0.0" vertical-offset="5255" max-vertical-offset="7786">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cv.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/cv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="331" column="17" selection-start="5472" selection-end="5472" vertical-scroll-proportion="0.0" vertical-offset="5432" max-vertical-offset="6783">
+            <state line="342" column="36" selection-start="5718" selection-end="5718" vertical-scroll-proportion="0.5377875" vertical-offset="5323" max-vertical-offset="6783">
               <folding />
             </state>
           </provider>
@@ -84,10 +84,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="204" />
-    <option name="width" value="1269" />
-    <option name="height" value="512" />
+    <option name="x" value="1358" />
+    <option name="y" value="-320" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -219,7 +219,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="204" width="1269" height="512" extended-state="1" />
+    <frame x="1358" y="-320" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -227,7 +227,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19872306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -309,35 +309,35 @@
         <state line="29" column="0" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.45309168" vertical-offset="0" max-vertical-offset="938" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../freelance/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="391" column="21" selection-start="6711" selection-end="6711" vertical-scroll-proportion="0.0" vertical-offset="6384" max-vertical-offset="7786">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freelance/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="44" selection-start="4030" selection-end="4035" vertical-scroll-proportion="0.0" vertical-offset="1666" max-vertical-offset="9282">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="204" column="18" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.3327645" vertical-offset="3273" max-vertical-offset="8228" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/cv.css">
+    <entry file="file://$PROJECT_DIR$/../freelance/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="17" selection-start="5472" selection-end="5472" vertical-scroll-proportion="0.0" vertical-offset="5432" max-vertical-offset="6783">
+        <state line="107" column="36" selection-start="4483" selection-end="4498" vertical-scroll-proportion="-25.5" vertical-offset="1156" max-vertical-offset="9282">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freelance/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="24" selection-start="5964" selection-end="5964" vertical-scroll-proportion="0.0" vertical-offset="5255" max-vertical-offset="7786">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="258" column="28" selection-start="11876" selection-end="11876" vertical-scroll-proportion="13.923809" vertical-offset="0" max-vertical-offset="8653">
+        <state line="261" column="26" selection-start="12057" selection-end="12057" vertical-scroll-proportion="-2.7058823" vertical-offset="4299" max-vertical-offset="8704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/cv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="342" column="36" selection-start="5718" selection-end="5718" vertical-scroll-proportion="0.5377875" vertical-offset="5323" max-vertical-offset="6783">
           <folding />
         </state>
       </provider>
