@@ -221,36 +221,42 @@ header .intro-text .skills {
     color: #18bc9c;
     background-color: #BA4C63;
     border: 0;
+    line-height: 300px;
 }
 
 .btn-graduation{
     color: #EFC84A;
     background-color: #1FA4B6;
     border: 0;
+    line-height: 300px;
 }
 
 .btn-uni{
     color: #E45136;
     background-color: #B5B5B5;
     border: 0;
+    line-height: 300px;
 }
 
 .btn-cogs{
     color: #0080C0;
     background-color: #EFC84A;
     border: 0;
+    line-height: 300px;
 }
 
 .btn-code{
     color: #BA4C63;
     background-color: #334D5C;
     border: 0;
+    line-height: 300px;
 }
 
 .btn-heart{
     color: #fff;
     background-color: #1FA4B6;
     border: 0;
+    line-height: 300px;
 }
 
 #contact{
@@ -379,4 +385,8 @@ footer .footer-below {
     width:auto;
     margin-left:auto;
     margin-right:auto;
+}
+
+.modal-detail{
+    text-align: left;
 }

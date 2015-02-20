@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="344" column="57" selection-start="17496" selection-end="17496" vertical-scroll-proportion="0.44271412" vertical-offset="5450" max-vertical-offset="8534">
+            <state line="60" column="88" selection-start="2291" selection-end="2295" vertical-scroll-proportion="0.33258173" vertical-offset="725" max-vertical-offset="8602">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="cv.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/cv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="332" column="15" selection-start="5504" selection-end="5504" vertical-scroll-proportion="0.0" vertical-offset="5641" max-vertical-offset="6579">
+            <state line="229" column="14" selection-start="4047" selection-end="4047" vertical-scroll-proportion="0.0" vertical-offset="3751" max-vertical-offset="6766">
               <folding />
             </state>
           </provider>
@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/../freelance/css/freelancer.css" />
         <option value="$PROJECT_DIR$/js/cv.js" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/../freelance/index.html" />
         <option value="$PROJECT_DIR$/css/cv.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -209,7 +210,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13385417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -264,11 +265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="453" column="16" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.3326226" vertical-offset="7389" max-vertical-offset="10132" />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="108" column="23" selection-start="2585" selection-end="2585" vertical-scroll-proportion="0.40191898" vertical-offset="1459" max-vertical-offset="2397" />
@@ -309,21 +305,30 @@
         <state line="204" column="18" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.3327645" vertical-offset="3273" max-vertical-offset="8228" />
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="453" column="16" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.3326226" vertical-offset="7389" max-vertical-offset="10132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../freelance/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="22" selection-start="5290" selection-end="5358" vertical-scroll-proportion="-6.5384617" vertical-offset="1938" max-vertical-offset="9282" />
+        <state line="86" column="0" selection-start="3495" selection-end="3495" vertical-scroll-proportion="-1.2448512" vertical-offset="2550" max-vertical-offset="9282">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/cv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="332" column="15" selection-start="5504" selection-end="5504" vertical-scroll-proportion="0.0" vertical-offset="5335" max-vertical-offset="6579">
+        <state line="229" column="14" selection-start="4047" selection-end="4047" vertical-scroll-proportion="0.0" vertical-offset="3751" max-vertical-offset="6766">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="344" column="57" selection-start="17496" selection-end="17496" vertical-scroll-proportion="0.44271412" vertical-offset="5450" max-vertical-offset="8534">
+        <state line="60" column="88" selection-start="2291" selection-end="2295" vertical-scroll-proportion="0.33258173" vertical-offset="725" max-vertical-offset="8602">
           <folding />
         </state>
       </provider>
