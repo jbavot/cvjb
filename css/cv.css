@@ -48,11 +48,19 @@ h2{
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+}
+
+@media(min-width:992px) {
+    .modal-detail{
+        text-align: left;
+    }
 }
 
 
 @media(max-width:768px) {
-    .navbar-fixed-top {
+    .navbar-fixed-top
+    {
         text-align: center;
     }
 
@@ -387,6 +395,4 @@ footer .footer-below {
     margin-right:auto;
 }
 
-.modal-detail{
-    text-align: left;
-}
+
