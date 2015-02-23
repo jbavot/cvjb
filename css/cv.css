@@ -146,7 +146,6 @@ h2{
     background: #2c3e50;
 }
 
-
 .img-centered {
     margin: 0 auto;
     border-radius: 10px;
@@ -378,6 +377,12 @@ footer .footer-below {
         margin: 0;
         font-size: 1.25em;
     }
+
+    .portfolio-modal .modal-content h4 {
+        margin: 0;
+        font-size: 0.8em;
+        padding-bottom: 10px;
+    }
 }
 
 .portfolio-modal .modal-backdrop {
@@ -390,11 +395,7 @@ footer .footer-below {
 }
 
 .frontico{
-    padding-top: 50px;
-    display:block;
-    width:auto;
-    margin-left:auto;
-    margin-right:auto;
+    margin: 0 auto;
 }
 
 
