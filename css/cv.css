@@ -203,6 +203,8 @@ header .intro-text .skills {
 #skills .skills-item {
     right: 0;
     margin: 0 0 15px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 #skills .skills-item .skills-link {
