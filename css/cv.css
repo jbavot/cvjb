@@ -1,3 +1,11 @@
+body {
+    background-image: url(../img/map.png);
+    background-repeat: repeat-y;
+    background-position: left bottom;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
 a:focus,
 a:hover,
 a:focus,
@@ -155,6 +163,7 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
+    background-size: cover;
 }
 
 header .container {
@@ -260,6 +269,10 @@ header .intro-text .skills {
     margin: 0;
 }
 
+#skills{
+    background-color: #ffffff;
+}
+
 #skills * {
     z-index: 2;
 }
@@ -272,7 +285,7 @@ header .intro-text .skills {
 
 #contact{
     color: #fff;
-    background: #18bc9c;
+ /*   background: #18bc9c; */
 
 }
 
